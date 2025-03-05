@@ -1,6 +1,6 @@
 # 🚀 iTerm2 Setup Guide for macOS
 
-![iTerm2 Custom Terminal Preview](screenshots/preview.png) <!-- Replace with your actual image path -->
+![iTerm2 Custom Terminal Preview]([screenshots/preview.png](https://iterm2.com/img/logo2x.jpg)) <!-- Replace with your actual image path -->
 
 > Boost your terminal productivity with a powerful, customizable replacement for macOS Terminal
 
